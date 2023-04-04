@@ -1,0 +1,40 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Somos
+    identifier: somos
+    url: people
+    weight: 20
+  - name: Sobre OLES
+    parent: somos
+    url: sobre
+    weight: 20
+  - name: Equipo
+    parent: somos
+    url: people
+    weight: 25
+  - name: Publicaciones
+    identifier: publicaciones
+    url: publication
+    weight: 30
+  - name: Líneas de trabajo
+    url: lineas
+    weight: 40
+  - name: Recientes
+    identifier: news
+    url: post
+    weight: 50
+  - name: Noticias
+    parent: news
+    url: post
+    weight: 10
+  - name: Actividades
+    parent: news
+    url: event
+    weight: 20
+  - name: Contacto
+    url: contact
+    weight: 56

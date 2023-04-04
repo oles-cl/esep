@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ismael Puga | OLES</title>
+    <link>www.oles.cl/author/ismael-puga/</link>
+      <atom:link href="www.oles.cl/author/ismael-puga/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ismael Puga</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language>
+    <image>
+      <url>/www.oles.cl/author/ismael-puga/avatar_hu44a60fba6b6f881eb1524af750529b1e_1091325_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ismael Puga</title>
+      <link>www.oles.cl/author/ismael-puga/</link>
+    </image>
+    
+  </channel>
+</rss>
