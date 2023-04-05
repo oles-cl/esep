@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 30
 
-title: Noticias **OLES**
+title: Noticias **ESEP**
 subtitle:
 
 content:

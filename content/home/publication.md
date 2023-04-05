@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-headless: true
-weight: 20
+#widget: pages
+#headless: true
+#weight: 20
 
-title: Últimas publicaciones
-subtitle:
+#title: Últimas publicaciones
+#subtitle:
 
-content:
+#content:
   count: 5
   filters:
     author: ""
@@ -18,7 +18,8 @@ content:
   offset: 1
   order: desc
   page_type: publication
-design:
+#design:
   view: 1
   columns: "1"
+active: false
 ---

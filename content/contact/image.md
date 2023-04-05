@@ -3,7 +3,7 @@ advanced:
   css_class: fullscreen
 design:
   background:
-    image: contact.jpg
+    image: contact.svg
     image_darken: 1
     image_parallax: false
     image_position: center

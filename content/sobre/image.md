@@ -34,19 +34,13 @@ widget: blank
 
 ## ¿Quiénes somos?
 
-Desde una mirada multidisciplinar **OLES** agrupa a investigadores/as de diferentes disciplinas en un esfuerzo por comprender los mecanismos de construcción de legitimidad social y problematizar el rol de la violencia y la justicia en diferentes contextos, aportando a la construcción teórica de marcos interpretativos sobre su desenvolvimiento en el escenario actual. Para ello promueve el diálogo y colaboración con actores sociales mediante la difusión y trabajo colaborativo que permita la socialización en espacios de relevancia.
- 
-El objetivo principal de OLES es el de contribuir a la comprensión de los mecanismos de legitimidad social y justificación de la violencia mediante el desarrollo de investigaciones bajo criterios de Ciencia Abierta y en diálogo con actores sociales. Actualmente cuenta con el apoyo del Centro de Estudios de Conflicto y Cohesión Social (COES), la Universidad Diego Portales (UDP), la Universidad de O’Higgins (UOH) y la Universidad Católica del Norte (UCN). 
+El **Estudio de Seguridad y Policías de Chile (ESEP)** tiene como objetivo conocer las percepciones de la ciudadanía sobre la delincuencia en el país, así como sobre la manera en que las personas se vinculan con las policías. 
+El estudio considera la aplicación de una encuesta longitudinal, esto es, una encuesta donde los y las participantes reportan sus actitudes con cierta regularidad para poder entender cómo estos fenómenos van cambiando en el tiempo.
 
-OLES se encuentra desarrollando los siguientes estudios:
+Los y las participantes en esta encuesta corresponden a hombres y mujeres de entre 18 y 65 años de edad, residentes de zonas urbanas del país. Los y las encuestados fueron seleccionados al azar para participar en este estudio. 
 
-- From compliance to resistance: How do citizens in Chile relate to and position themselves towards the police? Fondecyt Regular Nº 1221805
-
-- Encuesta Longitudinal sobre legitimidad hacia carabineros: violencia, derechos humanos y control social (2020-2022). 
-
-- Evaluación de los aprendizajes en investigación en estudiantes de las Facultades de Psicología y Ciencias Sociales e Historia. La experiencia del proyecto “Legitimidad de Carabineros: violencia, derechos humanos y control social”. 
+Con la participación en este estudio, los y las participantes contribuirán a una mejor comprensión de las percepciones de la ciudadanía sobre la seguridad en Chile, así como de lo que la ciudadanía espera de sus policías.
 
 ## Fondos
 
-OLES cuenta con el reconocimiento y apoyo financiero del Centro de Estudios en Conflicto y Cohesión Social (COES), la Universidad Diego Portales (UDP), así como de la European Association of Social Psychology (EASP). Actualmente cuenta además con fondos ANID a través de la adjudicación de un Fondecyt Regular de la Agencia Nacional de Investigación y Desarrollo.
-
+[EN DESARROLLO]

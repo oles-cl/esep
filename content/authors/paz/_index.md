@@ -40,7 +40,7 @@ role: Profesora asistente, Facultad de Derecho
 
 superuser: true
 user_groups:
-- Investigadores asociados
+- Investigadoras/es asociadas/os
 ---
 
 Es abogada y se desempeñó como académica e investigadora en la Universidad de Valparaiso y la UOH antes de integrarse a la Universidad de Chile el 2021. Actualmente se encuentra desarrollando su Fondecyt posdoctoral sobre Igualdad y control policial de trabajadores callejeros en Chile.

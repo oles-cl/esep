@@ -51,7 +51,7 @@ social:
   link: www.tinyurl.com/bahamondes-scholar
 
 user_groups:
-- Subdirectores
+- Equipo central
 ---
 
 Académico de la Escuela de Psicología UCN. Psicólogo de la Universidad Católica del Norte y Doctor en psicología por la University of Auckland, Nueva Zelanda. Investigador principal del proyecto FONDECYT #11230903 "Percepción de legitimidad y bienestar psicológico: Avanzando la teoría sobre el efecto paliativo de las creencias ideológicas". Investigador colaborador en el NZAVS lab, y co-investigador en el Proyecto Exploración #13220187 "Legitimidad de las policías en chile: el efecto causal de la violencia y la corrupción desde una perspectiva multi-actor, longitudinal y multimétodos".

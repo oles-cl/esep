@@ -43,7 +43,7 @@ social:
   link: claudio.fuentessaa@udp.cl
 
 user_groups:
-- Investigadores asociados
+- Investigadoras/es asociadas/os
 ---
  Es profesor titular de la Escuela de Ciencia Política de la Universidad Diego Portales. Doctor en Ciencia Política de la Universidad de Carolina del Norte (Chapel Hill). Sus intereses académicos se han orientado al estudio de los procesos políticos en Chile y América Latina, focalizándose en los últimos años en el estudio de las dinámicas del cambio institucional. Entre otros reconocimientos, obtuvo el premio a la mejor tesis de doctorado otorgado por la Asociación Americana de Ciencia Política (APSA) y es Luksic Fellow de la Universidad de Harvard (2011). Integró el Consejo Asesor Presidencial anti-corrupción (2015). Es investigador asociado del Centro de Estudios Interculturales e Indígenas (CIIR) y coordina el Laboratorio Constitucional en la UDP.
 

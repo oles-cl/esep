@@ -17,4 +17,4 @@ widget: contact
 active: true
 ---
 
-¿Quiéres saber más sobre el **Observatorio de Violencia y Legitimidad Social**? Toma contacto con nuestro equipo :point_down: 
+¿Tienes alguna duda sobre este estudio? ¿Quieres conocer más sobre este proyecto? Escríbenos a través de este formulario o mediante un correo a nuestro mail **contacto.esep@gmail.com**.

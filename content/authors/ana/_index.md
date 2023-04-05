@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Subdirectores
+- Investigadoras/es asociadas/os
 ---
 
 Profesora asociada del Instituto de Ciencias Sociales de la Universidad de O’Higgins (Rancagua) e investigadora asociada de la línea Interacciones Grupales e Individuales de COES. Psicóloga, Magíster en Psicología Social y Doctora en Psicología Social por la Universidad de Coimbra (Portugal) en conjunto con la Universidad de Amsterdam. Actualmente es investigadora principal del Fondecyt de Iniciación Nº11201211, “Ideologías poscoloniales, políticas de reconocimiento y reparación, y relaciones intergrupales actuales: Los Mapuche en Chile” y es coinvestigadora en dos proyectos de investigación Fondecyt Regular sobre violencia y legitimidad, y movilización social. Desde 2021, Ana es miembro del Governing Council de la International Society of Social Psychology (ISPP).

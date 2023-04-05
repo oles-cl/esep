@@ -15,12 +15,12 @@ font_size: L
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: Observatorio de Violencia y Legitimidad Social
+description: Estudio de Percepciones de Seguridad y Policías en Chile
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: contacto.oles@gmail.com
+email: contacto.esep@gmail.com
 phone: 
 # address:
 #   street: 450 Serra Mall
@@ -62,7 +62,7 @@ address_format: en-us
 
 # Site features
 main_menu: {align: "r", show_logo: true}
-logo: "logo.png"
+logo: "logo.svg"
 
 highlight: false
 math: false

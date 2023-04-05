@@ -69,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Directora
+- Equipo central
 ---
 
 Profesora asociada de la Facultad de Psicología de la Universidad Diego Portales. Socióloga de la Universidad de Chile y Doctora en Métodos de Investigación Social de la London School of Economics and Political Science, Reino Unido. Actualmente es investigadora asociada del Centro de Estudios de Conflicto y Cohesión Social (COES). Sus líneas de interés están enfocadas en temas de psicología social y política, relaciones intergrupales, ideologías políticas, actitudes hacia la justicia social y la desigualdad, el castigo de delincuentes y la violencia intergrupal. Tiene un fuerte interés en las metodologías cuantitativas y experimentales de investigación, así como en el análisis cuantitativo de datos.

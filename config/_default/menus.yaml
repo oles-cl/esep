@@ -8,7 +8,7 @@ main:
     identifier: somos
     url: people
     weight: 20
-  - name: Sobre OLES
+  - name: Sobre ESEP
     parent: somos
     url: sobre
     weight: 20
@@ -16,13 +16,6 @@ main:
     parent: somos
     url: people
     weight: 25
-  - name: Publicaciones
-    identifier: publicaciones
-    url: publication
-    weight: 30
-  - name: Líneas de trabajo
-    url: lineas
-    weight: 40
   - name: Recientes
     identifier: news
     url: post
@@ -31,7 +24,7 @@ main:
     parent: news
     url: post
     weight: 10
-  - name: Actividades
+  - name: Eventos
     parent: news
     url: event
     weight: 20
