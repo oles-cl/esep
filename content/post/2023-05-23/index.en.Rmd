@@ -1,15 +1,12 @@
 ---
-title: "Ejemplo Noticia ESEP"
+title: "Noticia ESEP"
 authors: [natalia_r]
-date: 2023-05-23
+date: 2023-03-13T21:13:14-05:00
 categories: ["Noticias"]
-tags: ""
+tags: ["Noticias"]
 image:
-  caption: 'Fuente de imagen: propia'
+  caption: 'Fuente de imagen: Elaboración propia'
   focal_point: Right
 ---
 
-[En desarrollo]
-
-Este es un ejemplo de la página de noticias de ESEP. 
-
+[En desarrollo] Sección de noticias ESEP
