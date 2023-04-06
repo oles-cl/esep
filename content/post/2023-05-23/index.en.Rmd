@@ -1,7 +1,7 @@
 ---
 title: "Ejemplo Noticia ESEP"
 authors: [natalia_r]
-date: 2023-05-23T21:13:14-05:00
+date: 2023-05-23
 categories: ["Noticias"]
 tags: ""
 image:
