@@ -16,8 +16,7 @@ role: Profesor Asociado, Escuela de Gobierno, Universidad Central.
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Central
-  url: "https://www.ucentral.cl/"
+- name: Universidad de Chile
 
 # Short bio (displayed in user profile at end of posts)
 bio: Es sociólogo, y se ha desempeñado como académico e investigador en distintas instituciones nacionales e internacionales, publicando en revistas como Social Forces, Social Movement Studies, Feminist Economics, o la Revista Internacional de Sociología. Actualmente es Investigador Responsable del proyecto Fondecyt Regular "Legitimation, ideology, and contentious collective action", y Co-Investigador del proyecto Fondecyt Regular "From Compliance to Resistance".
