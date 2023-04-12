@@ -16,8 +16,8 @@ role: Research Fellow de la Facultad de Sociología de Universität Bielefeld
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Central
-  url: "https://www.ucentral.cl/"
+- name: Universidad de Chile
+  url: "https://www.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Research Fellow de la Facultad de Sociología de Universität Bielefeld. Sociólogo de la Universidad de Chile. Sus líneas de interés están enfocadas en temas de desigualdades sociales, justicia social, mercados laborales y conflictos políticos. Tiene un fuerte interés en la investigación social cuantitativa, la inferencia causal y la sociología analítica.
