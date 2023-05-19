@@ -37,10 +37,5 @@ widget: blank
 El **Estudio de Seguridad y Policías de Chile (ESEP)** tiene como objetivo conocer las percepciones de la ciudadanía sobre la delincuencia en el país, así como sobre la manera en que las personas se vinculan con las policías. 
 El estudio considera la aplicación de una encuesta longitudinal, esto es, una encuesta donde los y las participantes reportan sus actitudes con cierta regularidad para poder entender cómo estos fenómenos van cambiando en el tiempo.
 
-Los y las participantes en esta encuesta corresponden a hombres y mujeres de entre 18 y 65 años de edad, residentes de zonas urbanas del país. Los y las encuestados fueron seleccionados al azar para participar en este estudio. 
-
 Con la participación en este estudio, los y las participantes contribuirán a una mejor comprensión de las percepciones de la ciudadanía sobre la seguridad en Chile, así como de lo que la ciudadanía espera de sus policías.
 
-## Fondos
-
-[EN DESARROLLO]
