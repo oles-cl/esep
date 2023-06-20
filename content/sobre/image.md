@@ -34,8 +34,10 @@ widget: blank
 
 ## ¿Quiénes somos?
 
-El **Estudio de Seguridad y Policías de Chile (ESEP)** tiene como objetivo conocer las percepciones de la ciudadanía sobre la delincuencia en el país, así como sobre la manera en que las personas se vinculan con las policías. 
+El **Estudio de Percepciones de Seguridad y Policías de Chile (ESEP)** tiene como objetivo conocer las percepciones de la ciudadanía sobre la delincuencia en el país, así como sobre la manera en que las personas se vinculan con las policías.
+ 
 El estudio considera la aplicación de una encuesta longitudinal, esto es, una encuesta donde los y las participantes reportan sus actitudes con cierta regularidad para poder entender cómo estos fenómenos van cambiando en el tiempo.
 
 Con la participación en este estudio, los y las participantes contribuirán a una mejor comprensión de las percepciones de la ciudadanía sobre la seguridad en Chile, así como de lo que la ciudadanía espera de sus policías.
 
+Este estudio se encuentra financiado por la **Universidad Diego Portales** y la **Agencia Nacional de Investigación y Desarrollo (ANID)** a través de los fondos Fondecyt Regular N. 1221805 y ANID Exploración N. 13220187.
