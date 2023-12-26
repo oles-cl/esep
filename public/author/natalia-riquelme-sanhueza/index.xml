@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Natalia Riquelme Sanhueza | OLES</title>
-    <link>www.oles.cl/author/natalia-riquelme-sanhueza/</link>
-      <atom:link href="www.oles.cl/author/natalia-riquelme-sanhueza/index.xml" rel="self" type="application/rss+xml" />
+    <title>Natalia Riquelme Sanhueza | ESEP</title>
+    <link>www.esep.cl/author/natalia-riquelme-sanhueza/</link>
+      <atom:link href="www.esep.cl/author/natalia-riquelme-sanhueza/index.xml" rel="self" type="application/rss+xml" />
     <description>Natalia Riquelme Sanhueza</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Fri, 26 May 2023 13:30:00 +0000</lastBuildDate>
     <image>
-      <url>/www.oles.cl/author/natalia-riquelme-sanhueza/avatar_hu7f7aa98cfb5aa46d275610979f71b2c0_98138_270x270_fill_lanczos_center_2.png</url>
+      <url>/www.esep.cl/author/natalia-riquelme-sanhueza/avatar_hu7f7aa98cfb5aa46d275610979f71b2c0_98138_270x270_fill_lanczos_center_2.png</url>
       <title>Natalia Riquelme Sanhueza</title>
-      <link>www.oles.cl/author/natalia-riquelme-sanhueza/</link>
+      <link>www.esep.cl/author/natalia-riquelme-sanhueza/</link>
     </image>
+    
+    <item>
+      <title>Lanzamiento ESEP</title>
+      <link>www.esep.cl/event/lanzamiento/</link>
+      <pubDate>Fri, 26 May 2023 13:30:00 +0000</pubDate>
+      <guid>www.esep.cl/event/lanzamiento/</guid>
+      <description>&lt;p&gt;[En desarrollo]&lt;/p&gt;
+&lt;p&gt;Ejemplo de evento para la página web de ESEP.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Noticia ESEP</title>
+      <link>www.esep.cl/post/2023-05-23/</link>
+      <pubDate>Mon, 13 Mar 2023 21:13:14 -0500</pubDate>
+      <guid>www.esep.cl/post/2023-05-23/</guid>
+      <description>
+
+
+&lt;p&gt;[En desarrollo] Sección de noticias ESEP&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

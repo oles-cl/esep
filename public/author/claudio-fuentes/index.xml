@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claudio Fuentes | ESEP</title>
+    <link>www.esep.cl/author/claudio-fuentes/</link>
+      <atom:link href="www.esep.cl/author/claudio-fuentes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claudio Fuentes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language>
+    <image>
+      <url>/www.esep.cl/author/claudio-fuentes/avatar_hucea127e59dd19ca07e642e78af95e95a_37389_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Claudio Fuentes</title>
+      <link>www.esep.cl/author/claudio-fuentes/</link>
+    </image>
+    
+  </channel>
+</rss>
